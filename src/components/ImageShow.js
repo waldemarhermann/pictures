@@ -1,6 +1,6 @@
 const ImageShow = () => {
     return (
-
+        <div></div>
     )
 }
 
